@@ -10,12 +10,12 @@ def argue(argument)
   return argument
 end
 
-def greeting
-
+def greeting(greeting, name)
+  
 end
 
-def return_a_value
-
+def return_a_value(value)
+  return value
 end
 
 def last_evaluated_value
